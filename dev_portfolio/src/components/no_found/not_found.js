@@ -5,7 +5,7 @@ import './not_found.css'
 
 const NotFound = () => (
     <Row className="centered">
-        <h2 className=" center ">404 NOF FOUNT</h2>
+        <h2 className=" center ">404 NOT FOUND</h2>
     </Row>
     
 )
