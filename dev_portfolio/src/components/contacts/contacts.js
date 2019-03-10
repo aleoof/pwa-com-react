@@ -9,9 +9,9 @@ const Contact = () =>(
         <UserProfile/>
         </Col>
         <Col m={8} s={12}>
-            <h5>Contact</h5>
             <Card>
                 <Row>
+                    <h5>Contact</h5>
                     <Input placehorder="email@email.com" type="email" label="Email" s={12}/>
                     <Input placeholder="Messagem..." label="Message" s={12} />
                     <Col s={12} m={12}>
